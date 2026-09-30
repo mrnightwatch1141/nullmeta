@@ -1,0 +1,5 @@
+rich
+openpyxl
+piexif
+pillow
+pypdf
